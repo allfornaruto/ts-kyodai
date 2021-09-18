@@ -1,0 +1,18 @@
+{
+  "name": "ts-kyodai",
+  "version": "1.0.0",
+  "description": "> 代码参考 `旅者 GameMaker` https://gitee.com/traveller_luf/linkgame",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allfornaruto/ts-kyodai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allfornaruto/ts-kyodai/issues"
+  },
+  "homepage": "https://github.com/allfornaruto/ts-kyodai#readme"
+}
